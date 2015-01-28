@@ -9,6 +9,11 @@ Play online at
 
 Play the original Clumsy Bird online at http://ellisonleao.github.io/clumsy-bird/
 
+Check out Ellison Leão's Clumsy Bird at https://github.com/ellisonleao/clumsy-bird
+
+My contributions:
+- Changed continuous flapping animation to animate on-click.
+
 ## Running Locally
 
 - Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
