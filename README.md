@@ -5,11 +5,13 @@ A customization of a MelonJS made "Flappy Bird" clone.
 
 ![](http://i.imgur.com/uflOY5i.png)
 
-Play online at 
+Play online at http://ralph-wiggum.github.io/Get-Markt/
 
 Play the original Clumsy Bird online at http://ellisonleao.github.io/clumsy-bird/
 
 Check out Ellison Leão's Clumsy Bird at https://github.com/ellisonleao/clumsy-bird
+
+Title art created by the pixel generator at http://textcraft.net/
 
 My contributions:
 - Changed continuous flapping animation to animate on-click.
